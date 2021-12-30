@@ -9,7 +9,7 @@ package declarative
 import (
 	"errors"
 
-	"github.com/lxn/walk"
+	"github.com/scjtqs2/walk"
 	"github.com/lxn/win"
 )
 

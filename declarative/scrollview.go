@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/scjtqs2/walk"
 )
 
 type ScrollView struct {
